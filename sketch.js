@@ -8,6 +8,6 @@ function draw() {
 
   textAlign(CENTER);
   textSize(50);
-  fill(0,255,0);
-  text("Jiwon", mouseX, mouseY);
+  fill(0, 255, 0);
+  text("Jiwon Park", mouseX, mouseY);
 }
